@@ -1,4 +1,3 @@
-Features
 # MERN Stack Chat App
 
 This MERN (MongoDB, Express.js, React.js, Node.js) stack chat application allows users to communicate in real-time via text messages.
@@ -32,38 +31,45 @@ react-helmet-async
 
 ## Installation
 
-1. Clone the repository:
+## Clone the repository:
 
 ```bash
 git clone https://github.com/ajayvermaxd/CHITCHAT.git
-Install dependencies:
-bash
+```
+## Install dependencies:
+```bash
 Copy code
-cd mern-stack-chat-app
+cd chitchat
 npm install
-Set up environment variables:
+```
+## Set up environment variables:
 Create a .env file in the root directory and add the following:
-
+```
 makefile
 Copy code
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-Run the development server:
-bash
+```
+## Run the development server:
+```bash
 Copy code
 npm run dev
 Open your browser and navigate to http://localhost:5173 to access the chat app.
-Usage
+```
+## Usage
 Register a new account or log in with existing credentials.
 Explore existing chat rooms or create new ones.
 Start sending messages and interacting with other users in real-time!
-Contributing
+
+
+## Contributing
 Contributions are welcome! Feel free to submit bug fixes, feature enhancements, or suggestions by creating pull requests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-arduino
+## arduino
 Copy code
-
-This README provides an overview of the MERN stack chat app, including its features,
+```
+This README provides an overview of the MERN stack chat app, including its features
+```
